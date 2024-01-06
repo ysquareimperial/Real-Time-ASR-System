@@ -1,0 +1,47 @@
+.menu {
+  background-color: #e9ecef !important;
+  border: none !important;
+  border-radius: 20px !important;
+  height: 20vh !important;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: center !important;
+}
+.menu:hover {
+  /* background-color: ; */
+  background-color: #dde0e3 !important;
+}
+
+.result_div {
+  background-color: #e9ecef !important;
+  height: 92vh;
+  border-radius: 20px;
+}
+.input {
+  background-color: #cacdcf;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+}
+
+.input:focus {
+  border: none;
+  outline: 1px solid grey;
+}
+
+label {
+  font-size: 13px;
+}
+
+.sub {
+  background-color: rgb(39, 39, 39);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.sub:hover {
+  background-color: black;
+}
